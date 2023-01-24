@@ -1,3 +1,0 @@
-Web Al-Quraan projek 
-- membuat web quraan untuk simak setoran 
-- perhatikan di saat nge pull, commit, dan push 
